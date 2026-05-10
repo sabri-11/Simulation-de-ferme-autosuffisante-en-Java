@@ -11,7 +11,8 @@ _______________________________________________________
 
 Ce projet a été réalisé et doit être exécuter sur Eclipse pour un bon affichage, voici comment l'exécuter :
 
-- Lancer Eclipse puis cliquez sur "File" en haut à gauche. 
+- Téléchargez tous les dossiers et fichiers de ce repo sous format zip et décompressez le sur votre pc
+- Lancer Eclipse puis cliquez sur "File" en haut à gauche.
 - Faites "Open Projects from file System..."
 - Dans import source, cliquez sur "Directory..."
-- Sélectionnez enfin le dossier zip décompressé présent sur ce github.
+- Sélectionnez enfin le dossier zip décompressé téléchargé précédemment.
