@@ -10,12 +10,8 @@ _______________________________________________________
 **INSTRUCTION POUR LANCER LA SIMULATION : **
 
 Ce projet a été réalisé et doit être exécuter sur Eclipse pour un bon affichage, voici comment l'exécuter :
-1. Créez un nouveau projet que vous pouvez appeler comme vous le souhaitez.
-2. Dans le dossier source (src) du projet que vous avez créer, créez un package que vous devrez appeler "projet" (sans les guillemets bien évidemment).
-3. Collez/glissez dans ce package "projet" tous les fichiers ".java" du dossier "Classes" que vous avez dans le fichier zip.
-4. Toujours dans ce package "projet", créez un nouveau package "projet.images".
-5. Collez/glissez dans le package "projet.images" toutes les images contenues dans le dossier "images" du fichier zip.
 
-Une fois toutes ces étapes réalisées sur Eclipse, vous pourrez lancer la simulation en exécutant le fichier Main.java.
-
-Vous pouvez essayer de le lancer depuis un autre IDE comme VS Code si vous savez comment vous y prendre.
+- Lancer Eclipse puis cliquez sur "File" en haut à gauche. 
+- Faites "Open Projects from file System..."
+- Dans import source, cliquez sur "Directory..."
+- Sélectionnez enfin le dossier zip décompressé présent sur ce github.
